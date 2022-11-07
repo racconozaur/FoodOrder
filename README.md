@@ -1,5 +1,5 @@
 # FoodOrder
-simple React project
+simple React project.
 
 # Getting Started with Create React App
 
